@@ -10,4 +10,6 @@ print(a+b)
 
 print(c+d)
 
+print(a+d)
+
 print("This is my first pytho-jenkins run which was successfull")
